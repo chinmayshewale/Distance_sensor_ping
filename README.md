@@ -1,3 +1,20 @@
-# Distance_sensor_ping
-sensing the distance with the help of ultrasonic sensor
-https://api.thingspeak.com/channels/2588939/feeds.json?api_key=50PXMKW9NJ4YOOEC&results=2
+# Interfacing of Distance Sensor (ping) with ESP8266 NodeMCU
+## Content
+
+1. [Overview](#overview)
+2. [Components Required](#components)
+3. [Flow Chart](#flow-chart)
+
+## Overview
+
+
+## components
+- ESP8266 NodeMCU
+- Ultrasonic Sensor
+- Breadboard and jumper wires
+- USB cable for power and programming
+
+  ##Flow Chart
+
+  
+
