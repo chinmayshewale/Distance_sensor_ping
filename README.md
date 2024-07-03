@@ -4,6 +4,8 @@
 1. [Overview](#overview)
 2. [Components Required](#components)
 3. [Flow Chart](#flow-chart)
+4. [Circuit Diagram](#circuit-diagram)
+5. 
 
 ## Overview
 
@@ -14,7 +16,10 @@
 - Breadboard and jumper wires
 - USB cable for power and programming
 
-  ##Flow Chart
+  ## Flow Chart
+
+
+## Circuit Diagram
 
   
 
