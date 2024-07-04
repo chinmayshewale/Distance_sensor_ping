@@ -5,7 +5,7 @@
 2. [Components Required](#components)
 3. [Flow Chart](#flow-chart)
 4. [Circuit Diagram](#circuit-diagram)
-5. 
+5. [Project Flow](#project-flow)
 
 ## Overview
 
@@ -20,6 +20,14 @@
 
 
 ## Circuit Diagram
+- Connect the ultrasonic sensor and ESP8266 as follows:
+  - VCC -> 5V
+  - GND -> GND
+  - TRIG -> GPIO pin (e.g., D1)
+  - ECHO -> GPIO pin (e.g., D2)
+
+
+## Project Flow
 
   
 
