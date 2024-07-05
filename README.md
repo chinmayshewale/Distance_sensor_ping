@@ -22,7 +22,7 @@ This project interfaces an ultrasonic sensor with an ESP8266 (NodeMCU) to measur
   - GND -> GND
   - TRIG -> GPIO pin D5
   - ECHO -> GPIO pin D6
-  - ![]()
+  - ![circuit](Images/circuit.png)
 
 ## Software Required
 - [VS Code](https://code.visualstudio.com/)
