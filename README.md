@@ -5,7 +5,9 @@
 2. [Components Required](#components)
 3. [Circuit Diagram](#circuit-diagram)
 4. [Software Required](#software-required)
-5. [Project Flow](#project-flow)
+5. [Libraries Required](#libraries-requried)
+6. [Overview of code](#overview-of-code)
+7. [Output](#output)
 
 ## Overview
 This project interfaces an ultrasonic sensor with an ESP8266 (NodeMCU) to measure distance and upload the data to ThingSpeak.
@@ -36,7 +38,7 @@ This project interfaces an ultrasonic sensor with an ESP8266 (NodeMCU) to measur
 - NewPing
 - ThingSpeak
 
-## Project Flow
+## Overview of code
 
 ### Serial Communication Setup:
 - Serial.begin(115200): Initializes serial communication at a baud rate of 115200 for debugging purposes.
@@ -56,7 +58,7 @@ This project interfaces an ultrasonic sensor with an ESP8266 (NodeMCU) to measur
 - Write data to thingspeak account by providing channel number and API key.
 
 ## OUTPUT
--Link of thingSpeak channel data:
+- Link of thingSpeak channel data:
 https://api.thingspeak.com/channels/2588939/feeds.json?api_key=50PXMKW9NJ4YOOEC&results=2
 
   
