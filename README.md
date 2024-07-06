@@ -3,11 +3,12 @@
 
 1. [Overview](#overview)
 2. [Components Required](#components)
-3. [Circuit Diagram](#circuit-diagram)
-4. [Software Required](#software-required)
-5. [Libraries Required](#libraries-requried)
-6. [Overview of code](#overview-of-code)
-7. [Output](#output)
+3. [Flowchart](#flowchart)
+4. [Circuit Diagram](#circuit-diagram)
+5. [Software Required](#software-required)
+6. [Libraries Required](#libraries-requried)
+7. [Overview of code](#overview-of-code)
+8. [Output](#output)
 
 ## Overview
 This project interfaces an ultrasonic sensor with an ESP8266 (NodeMCU) to measure distance and upload the data to ThingSpeak.
@@ -16,7 +17,10 @@ This project interfaces an ultrasonic sensor with an ESP8266 (NodeMCU) to measur
 - ESP8266 NodeMCU
 - Ultrasonic Sensor
 - Breadboard and jumper wires
-- USB cable 
+- USB cable
+
+  ## Flowchart
+  ![flowchart](Images/flowchart.png)
 
 ## Circuit Diagram
 - Connect the ultrasonic sensor and ESP8266 as follows:
