@@ -19,7 +19,7 @@ This project interfaces an ultrasonic sensor with an ESP8266 (NodeMCU) to measur
 - Breadboard and jumper wires
 - USB cable
 
-  ## Flowchart
+## Flowchart
   ![flowchart](Images/flowchart.png)
 
 ## Circuit Diagram
